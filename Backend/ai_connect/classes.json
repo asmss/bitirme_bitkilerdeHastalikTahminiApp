@@ -1,0 +1,29 @@
+{
+    "plants": [
+        "Apple",
+        "Cherry",
+        "Corn",
+        "Grape",
+        "Peach",
+        "Pepper",
+        "Potato",
+        "Strawberry",
+        "Tomato"
+    ],
+    "diseases": [
+        "Apple Scab",
+        "Bacterial Spot",
+        "Black Rot",
+        "Cedar Apple Rust",
+        "Common Rust",
+        "Early Blight",
+        "Esca",
+        "Gray Leaf Spot",
+        "Healthy",
+        "Late Blight",
+        "Leaf Blight",
+        "Leaf Scorch",
+        "Northern Leaf Blight",
+        "Powdery Mildew"
+    ]
+}

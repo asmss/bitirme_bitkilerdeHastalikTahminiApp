@@ -1,0 +1,23 @@
+Hastalık Sınıflandırma Raporu:
+                      precision    recall  f1-score   support
+
+          Apple Scab       1.00      0.99      1.00       504
+      Bacterial Spot       0.99      1.00      1.00      1362
+           Black Rot       1.00      1.00      1.00       969
+    Cedar Apple Rust       1.00      1.00      1.00       440
+         Common Rust       1.00      0.99      1.00       477
+        Early Blight       0.99      0.98      0.99       965
+                Esca       1.00      1.00      1.00       480
+      Gray Leaf Spot       0.97      0.91      0.94       410
+             Healthy       1.00      1.00      1.00      4168
+         Late Blight       0.98      0.99      0.99       948
+         Leaf Blight       1.00      1.00      1.00       430
+         Leaf Scorch       1.00      1.00      1.00       444
+Northern Leaf Blight       0.92      0.97      0.95       477
+      Powdery Mildew       1.00      1.00      1.00       420
+
+            accuracy                           0.99     12494
+           macro avg       0.99      0.99      0.99     12494
+        weighted avg       0.99      0.99      0.99     12494
+
+Weighted F1 Score: 0.9926

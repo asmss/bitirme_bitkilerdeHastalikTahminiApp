@@ -1,0 +1,21 @@
+# Python klasörleri
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+app_api/ .env
+.env
+node_modules/
+
+# Veritabanı ve loglar
+*.log
+local_db.sqlite
+.pytest_cache/
+
+# Mac sistem dosyaları
+.DS_Store
+
+# IDE dosyaları
+.vscode/
+.idea/

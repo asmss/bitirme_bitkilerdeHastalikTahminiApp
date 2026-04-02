@@ -1,0 +1,154 @@
+{
+  "Apple/Apple Scab": {
+    "ingilizce_ad": "Apple Scab",
+    "turkce_ad": "Elma Karalekesi",
+    "aciklama": "Venturia inaequalis mantarının neden olduğu, elma ağaçlarının en yaygın ve ekonomik zarar veren hastalığıdır.",
+    "belirtiler": "Yapraklarda ve meyvelerde zeytin yeşili veya siyahımsı, kadifemsi lekeler oluşur.",
+    "tedavi_kimyasal": "Difenoconazole veya Kükürt içerikli fungisitler.",
+    "tedavi_dogal": "Yere dökülen yaprakları toplayıp imha edin; ağacı hava alacak şekilde budayın."
+  },
+  "Apple/Black Rot": {
+    "ingilizce_ad": "Black Rot",
+    "turkce_ad": "Elma Kara Çürüklüğü",
+    "aciklama": "Botryosphaeria obtusa mantarının neden olduğu, meyve ve yapraklarda ciddi zarara yol açan bir hastalıktır.",
+    "belirtiler": "Meyvelerde merkezden dışa yayılan halkalı çürükler, yapraklarda morumsu noktalar.",
+    "tedavi_kimyasal": "Bakır bazlı fungisitler veya Captan içerikli ilaçlar.",
+    "tedavi_dogal": "Kurumuş dalları budayın ve enfekte meyveleri bahçeden uzaklaştırın."
+  },
+  "Apple/Cedar Apple Rust": {
+    "ingilizce_ad": "Cedar Apple Rust",
+    "turkce_ad": "Elma Pas Hastalığı",
+    "aciklama": "Ardınç ve elma ağaçları arasında döngü yapan bir mantar hastalığıdır.",
+    "belirtiler": "Yaprak üst yüzeyinde parlak turuncu-sarı dairesel lekeler.",
+    "tedavi_kimyasal": "Myclobutanil veya Triadimefon içerikli ilaçlar.",
+    "tedavi_dogal": "Yakın çevredeki enfekte ardınç ağaçlarını temizleyin."
+  },
+  "Cherry/Powdery Mildew": {
+    "ingilizce_ad": "Powdery Mildew",
+    "turkce_ad": "Kirazda Külleme",
+    "aciklama": "Yaprakların ve yeni sürgünlerin unlanmış gibi görünmesine yol açan mantar hastalığıdır.",
+    "belirtiler": "Yaprak yüzeyinde beyaz, tozlu bir tabaka ve yapraklarda kıvrılma.",
+    "tedavi_kimyasal": "Kükürt tozlaması veya sistemik fungisitler.",
+    "tedavi_dogal": "Sirkeli su (hafif vakalar için) veya bitki direncini artıran potasyum uygulamaları."
+  },
+  "Corn/Common Rust": {
+    "ingilizce_ad": "Common Rust",
+    "turkce_ad": "Mısır Pası",
+    "aciklama": "Yapraklarda enerji kaybına yol açarak verimi düşüren yaygın bir pas mantarıdır.",
+    "belirtiler": "Yaprakların her iki yüzeyinde tarçın renginde tozlu püstüller.",
+    "tedavi_kimyasal": "Strobilurin veya Azoxystrobin içerikli ilaçlar.",
+    "tedavi_dogal": "Hastalığa dayanıklı mısır çeşitleri ekilmeli."
+  },
+  "Corn/Gray Leaf Spot": {
+    "ingilizce_ad": "Gray Leaf Spot",
+    "turkce_ad": "Mısır Gri Yaprak Lekesi",
+    "aciklama": "Sıcak ve nemli havalarda hızla yayılan, yaprak alanını yok eden bir mantardır.",
+    "belirtiler": "Yaprak damarları arasında dikdörtgen şeklinde gri-kahverengi lekeler.",
+    "tedavi_kimyasal": "Geniş spektrumlu fungisitler (örneğin Pyraclostrobin).",
+    "tedavi_dogal": "Ekim nöbeti uygulayın ve tarlada kalan bitki artıklarını temizleyin."
+  },
+  "Corn/Northern Leaf Blight": {
+    "ingilizce_ad": "Northern Leaf Blight",
+    "turkce_ad": "Mısır Kuzey Yaprak Yanıklığı",
+    "aciklama": "Yapraklarda büyük 'yanık' alanları oluşturan, fotosentezi engelleyen bir hastalıktır.",
+    "belirtiler": "Puro şeklinde uzun, gri-yeşil veya kahverengi lekeler.",
+    "tedavi_kimyasal": "Mancozeb veya sistemik fungisitler.",
+    "tedavi_dogal": "Derin sürüm yaparak mantar sporlarını toprağa gömün."
+  },
+  "Grape/Black Rot": {
+    "ingilizce_ad": "Black Rot",
+    "turkce_ad": "Bağda Kara Leke",
+    "aciklama": "Üzüm salkımlarının kurumasına ve meyvelerin 'mumya' gibi büzüşmesine neden olur.",
+    "belirtiler": "Meyvelerde önce kahverengi lekeler, sonra tam siyahlaşma ve büzüşme.",
+    "tedavi_kimyasal": "Mancozeb veya Captan.",
+    "tedavi_dogal": "Kışın budama sonrası tüm enfekte salkımları toplayıp yakın."
+  },
+  "Grape/Esca": {
+    "ingilizce_ad": "Esca",
+    "turkce_ad": "Bağda Kav (Esca)",
+    "aciklama": "Asmanın gövde dokusunu bozan kompleks bir mantar hastalığıdır.",
+    "belirtiler": "Yapraklarda damar aralarında 'kaplan deseni' şeklinde sararma.",
+    "tedavi_kimyasal": "Doğrudan ilacı yoktur; budama yaraları koruyucu macunla kapatılmalıdır.",
+    "tedavi_dogal": "Budama aletlerini dezenfekte edin, kurumuş kolları kesin."
+  },
+  "Grape/Leaf Blight": {
+    "ingilizce_ad": "Leaf Blight",
+    "turkce_ad": "Bağ Yaprak Yanıklığı",
+    "aciklama": "Yaprakların vaktinden önce dökülmesine ve verim kaybına yol açan hastalıktır.",
+    "belirtiler": "Yapraklarda koyu kırmızı-kahverengi düzensiz lekeler.",
+    "tedavi_kimyasal": "Bakır sülfat (Bordo bulamacı).",
+    "tedavi_dogal": "Asmaların güneş ve hava almasını sağlayacak şekilde seyreltme yapın."
+  },
+  "Peach/Bacterial Spot": {
+    "ingilizce_ad": "Bacterial Spot",
+    "turkce_ad": "Şeftali Bakteriyel Leke",
+    "aciklama": "Şeftali yapraklarında 'saçma deliği' görünümü oluşturan bir bakteridir.",
+    "belirtiler": "Yapraklarda küçük delikler ve meyvede pürüzlü lekeler.",
+    "tedavi_kimyasal": "Bakırlı bileşikler veya Oksitetrasiklin.",
+    "tedavi_dogal": "Dengeli azot gübrelemesi yaparak bitki dokusunu güçlendirin."
+  },
+  "Pepper/Bacterial Spot": {
+    "ingilizce_ad": "Bacterial Spot",
+    "turkce_ad": "Biber Bakteriyel Leke",
+    "aciklama": "Yaprak ve meyvelerde siğil benzeri kabarıklıklar oluşturan bir enfeksiyondur.",
+    "belirtiler": "Yaprak altlarında küçük su emmiş lekeler, meyvede pürüzlü yaralar.",
+    "tedavi_kimyasal": "Bakır bazlı fungisitler.",
+    "tedavi_dogal": "Toprağı malçlayarak yağmur sularının bakteriyi sıçratmasını önleyin."
+  },
+  "Potato/Early Blight": {
+    "ingilizce_ad": "Early Blight",
+    "turkce_ad": "Patates Erken Yanıklığı",
+    "aciklama": "Yapraklarda iç içe geçmiş halkalar (hedef tahtası) oluşturan mantar hastalığıdır.",
+    "belirtiler": "Koyu kahverengi dairesel lekeler ve yaprakların kuruması.",
+    "tedavi_kimyasal": "Chlorothalonil veya Azoxystrobin.",
+    "tedavi_dogal": "Bitkiyi strese sokmamak için düzenli sulama ve gübreleme yapın."
+  },
+  "Potato/Late Blight": {
+    "ingilizce_ad": "Late Blight",
+    "turkce_ad": "Patates Mildiyösü",
+    "aciklama": "Tüm tarlayı kısa sürede kurutabilen en tehlikeli patates hastalığıdır.",
+    "belirtiler": "Geniş sulu yanıklar ve yaprak altında beyaz küf tabakası.",
+    "tedavi_kimyasal": "Metalaxyl veya bakırlı ilaçlar.",
+    "tedavi_dogal": "Hastalıklı bitkileri tarladan çıkarın; yumrulara bulaşmaması için üst kısımları kesin."
+  },
+  "Strawberry/Leaf Scorch": {
+    "ingilizce_ad": "Leaf Scorch",
+    "turkce_ad": "Çilek Yaprak Yanıklığı",
+    "aciklama": "Çilek yapraklarının kurumasına ve bitkinin zayıflamasına neden olur.",
+    "belirtiler": "Yapraklarda morumsu lekelerin birleşerek yaprağı 'yakmış' gibi göstermesi.",
+    "tedavi_kimyasal": "Geniş etkili fungisitler.",
+    "tedavi_dogal": "Sık dikimden kaçının ve bitki aralarında hava sirkülasyonu sağlayın."
+  },
+  "Tomato/Bacterial Spot": {
+    "ingilizce_ad": "Bacterial Spot",
+    "turkce_ad": "Domates Bakteriyel Leke",
+    "aciklama": "Meyve kalitesini bozan ve yaprak dökümüne neden olan bakteriyel bir sorundur.",
+    "belirtiler": "Siyah, pürüzlü, su emmiş gibi görünen küçük lekeler.",
+    "tedavi_kimyasal": "Bakır sülfat karışımları.",
+    "tedavi_dogal": "Damla sulama kullanarak yaprakların ıslanmasını engelleyin."
+  },
+  "Tomato/Early Blight": {
+    "ingilizce_ad": "Early Blight",
+    "turkce_ad": "Domates Erken Yanıklığı",
+    "aciklama": "Alt yapraklardan başlayarak bitkiyi yukarı doğru kurutan bir mantardır.",
+    "belirtiler": "Yapraklarda halkalı kahverengi lekeler ve sararma.",
+    "tedavi_kimyasal": "Mancozeb veya Azoxystrobin.",
+    "tedavi_dogal": "Bitkinin alt yapraklarını budayarak toprakla temasını kesin."
+  },
+  "Tomato/Late Blight": {
+    "ingilizce_ad": "Late Blight",
+    "turkce_ad": "Domates Mildiyösü",
+    "aciklama": "Domatesin en hızlı yayılan ve öldürücü mantar benzeri hastalığıdır.",
+    "belirtiler": "Koyu renkli büyük çürük alanları ve meyvede sertleşme.",
+    "tedavi_kimyasal": "Metalaxyl-M veya bakırlı ilaçlar.",
+    "tedavi_dogal": "Yüksek nemi kontrol edin; enfekte bitkiyi derhal imha edin."
+  },
+  "Healthy": {
+    "ingilizce_ad": "Healthy",
+    "turkce_ad": "Sağlıklı Bitki",
+    "aciklama": "Bitki üzerinde herhangi bir patojen veya hastalık belirtisi saptanmamıştır.",
+    "belirtiler": "Canlı renkler, lekesiz yapraklar ve güçlü büyüme.",
+    "tedavi_kimyasal": "İlaçlama gerekli değildir.",
+    "tedavi_dogal": "Düzenli bakıma ve koruyucu önlemlere (doğru sulama, gübreleme) devam edin."
+  }
+}

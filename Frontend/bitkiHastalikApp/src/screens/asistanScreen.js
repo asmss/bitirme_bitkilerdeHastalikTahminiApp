@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+ import React, { useState, useRef } from 'react';
 import { View, Text, StyleSheet, TextInput, TouchableOpacity, FlatList, KeyboardAvoidingView, Platform, ActivityIndicator } from 'react-native';
 import { Ionicons } from '@expo/vector-icons';
 import api from '../services/api';
@@ -69,7 +69,7 @@ const AsistanScreen = () => {
         )}
       />
 
-      {loading && <ActivityIndicator color="#2E7D32" style={{ marginBottom: 10 }} />}
+      {loading && <ActivityIndicator color="#2E7D32" style={{ marginBottom: 15 }} />}
 
       <View style={styles.inputContainer}>
         <TextInput

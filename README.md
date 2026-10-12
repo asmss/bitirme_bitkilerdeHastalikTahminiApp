@@ -1,4 +1,4 @@
-# Plant Disease Detection & Treatment Assistant
+# Plant Disease Detection App
 
 > **Academic Undergraduate Graduation Project**  
 > **Institution:** Konya Technical University — Department of Computer Engineering  
